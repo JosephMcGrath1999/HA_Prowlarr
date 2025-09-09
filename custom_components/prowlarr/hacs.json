@@ -1,3 +1,4 @@
 {
-  "name": "Prowlarr"
+  "name": "Prowlarr",
+  "hacs": "2.0.5"
 }
