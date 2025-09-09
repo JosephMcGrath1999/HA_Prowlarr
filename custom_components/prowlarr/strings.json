@@ -1,0 +1,23 @@
+{
+    "config": {
+      "step": {
+        "user": {
+          "data": {
+            "api_key": "Prowlarr API key",
+            "host": "Prowlarr address",
+            "port": "Prowlarr port",
+            "ssl": "SSL"
+          }
+        }
+      },
+      "error": {
+        "failed_to_login": "Failed to Log-in",
+        "cannot_be_reached": "Prowlarr cannot be reached"
+      },
+      "abort": {
+        "already_configured": "User is already configured",
+        "failed_to_login": "Failed to Log-in",
+        "cannot_be_reached": "Prowlarr cannot be reached"
+      }
+    }
+  }
