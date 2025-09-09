@@ -1,4 +1,5 @@
 {
   "name": "Prowlarr",
-  "hacs": "2.0.5"
+  "hacs": "2.0.5",
+  "homeassistant": "2025.09.0",
 }
